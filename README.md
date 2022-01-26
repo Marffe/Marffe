@@ -4,14 +4,11 @@
 - :books: I’m currently learning: English, JavaScript and Python
 - :eye: Interested on Crypto, NTF, Game Dev and Modding, UI Design and Desktop Apps
 
-
-
-
-
+---
 
 
 <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=Marffe&show_icons&?count_private=true=true&show_icons=true&theme=dracula">
 
+---
 
-
-<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marffe&langs_count=8">
+<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marffe&langs_count=8">
