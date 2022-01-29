@@ -5,6 +5,3 @@
 - :eye: Interested on Crypto, NTF, Game Dev and Modding, UI Design and Desktop Apps
 
 ---
-
-
-<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=Marffe&show_icons&?count_private=true=true&show_icons=true&theme=dracula">
