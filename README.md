@@ -2,6 +2,6 @@
 
 - :hammer: I’m currently working on: Web Pages with SASS
 - :books: I’m currently learning: English, JavaScript and Python
-- :eye: Interested on Crypto, NTF, Game Dev and Modding, UI Design and Desktop Apps
+- :eye: Interested on Game Dev and Modding, UI Design and Desktop Apps
 
 ---
